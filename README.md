@@ -1,2 +1,2 @@
 # Magicbit-MicroPython
-## Documentration for magicbit development kit developed by A&T Labs
+Attempt to create documentration for magicbit development kit developed by A&T Labs.
